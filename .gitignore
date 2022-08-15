@@ -1,0 +1,10 @@
+﻿AP.Product/AP.Microservices/moduls/AP.User/host/AP.User.IdentityServer/wwwroot
+AP.Product/AP.Microservices/moduls/AP.Product/host/AP.Product.IdentityServer/wwwroot
+AP.Product/AP.Microservices/moduls/AP.Payment/host/AP.Payment.IdentityServer/wwwroot
+AP.Product/AP.Microservices/moduls/AP.Order/host/AP.Order.IdentityServer/wwwroot
+AP.Product/AP.Microservices/microservices/AP.Order.HttpApi.Host/Logs
+AP.Product/AP.Microservices/microservices/AP.Payment.HttpApi.Host/Logs
+AP.Product/AP.Microservices/microservices/AP.Product.HttpApi.Host/Logs
+AP.Product/AP.Microservices/microservices/AP.Order.HttpApi.Host/Migrations
+AP.Product/AP.Microservices/microservices/AP.Product.HttpApi.Host/Migrations
+AP.Product/AP.Microservices/moduls/AP.Order/host/AP.Order.IdentityServer/Migrations

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    <PackageReference Include="Volo.Abp.AspNetCore.Mvc" Version="4.4.3" />
+    <PackageReference Include="Volo.Abp.Autofac" Version="4.4.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\moduls\AP.Order\src\AP.Order.HttpApi.Client\AP.Order.HttpApi.Client.csproj" />
+    <ProjectReference Include="..\..\moduls\AP.Product\src\AP.Product.HttpApi.Client\AP.Product.HttpApi.Client.csproj" />
+  </ItemGroup>
+
+</Project>
